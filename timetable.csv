@@ -1,0 +1,26 @@
+day,time_slot,subject,department
+Monday,9:00 AM - 10:30 AM,Physics,Department C
+Monday,10:45 AM - 12:15 PM,English,Department A
+Monday,1:00 PM - 2:30 PM,English,Department B
+Monday,2:45 PM - 4:15 PM,Physics,Department B
+Monday,4:30 PM - 6:00 PM,Chemistry,Department C
+Tuesday,9:00 AM - 10:30 AM,Physics,Department A
+Tuesday,10:45 AM - 12:15 PM,History,Department C
+Tuesday,1:00 PM - 2:30 PM,Computer Science,Department D
+Tuesday,2:45 PM - 4:15 PM,Chemistry,Department B
+Tuesday,4:30 PM - 6:00 PM,Physics,Department D
+Wednesday,9:00 AM - 10:30 AM,Physics,Department C
+Wednesday,10:45 AM - 12:15 PM,Mathematics,Department D
+Wednesday,1:00 PM - 2:30 PM,Mathematics,Department B
+Wednesday,2:45 PM - 4:15 PM,History,Department D
+Wednesday,4:30 PM - 6:00 PM,History,Department C
+Thursday,9:00 AM - 10:30 AM,Chemistry,Department A
+Thursday,10:45 AM - 12:15 PM,Mathematics,Department B
+Thursday,1:00 PM - 2:30 PM,English,Department D
+Thursday,2:45 PM - 4:15 PM,History,Department D
+Thursday,4:30 PM - 6:00 PM,Computer Science,Department C
+Friday,9:00 AM - 10:30 AM,English,Department A
+Friday,10:45 AM - 12:15 PM,Mathematics,Department C
+Friday,1:00 PM - 2:30 PM,Mathematics,Department B
+Friday,2:45 PM - 4:15 PM,Physics,Department C
+Friday,4:30 PM - 6:00 PM,History,Department D
